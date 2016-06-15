@@ -14,31 +14,30 @@ In particular, the ANACONDA installation check and required packages.
 
 Agenda
 
--- Day 0 --
-Monday, June 13, 2016, 12-3pm
+## Day 0  - June 13 (Monday) ##
 
-Introduction
-Python Basics
-** Breakout **
-Strings and File I/O
-** Breakout **
-Functions
-** Breakout **
-Homework
+ Time |  What | 
+:---- | ----- | 
+12:00 -12:20 | Introduction |
+12:20 -1:20 | Python Basics | 
+1:20  -2:20 | Strings and File I/O |
+2:20  -3:00 | Functions |
+3:00  -3:10 | Homework |
 
--- Day 1 --
-Wednesday, June 15, 2016, 12-3pm
+## Day 1  - June 15 (Wednesday) ##
 
-Lists
-** Breakout **
-Advanced Python
-** Breakout **
-Numpy and Matplotlib
-** Breakout **
-Homework
+ Time |  What | 
+:---- | ----- | 
+12:00 -12:10 | Recap homework |
+12:10 -1:00 | Lists, Dictionaries and Tuples | 
+1:00  -1:30 | List Comprehensions |
+1:30  -2:00 | Lambda Functions, etc. |
+2:00  -2:30 | numpy |
+2:30  -2:50 | matplotlib |
+2:50  -3:00 | Homework |
 
+## Day 2  - June 17 (Friday) ##
 
--- Day 2 --
-Friday, June 17, 2016, 12-3pm
-
-** Agenda: TBD
+ Time |  What | 
+:---- | ----- | 
+TBD | scipy, github, etc. | 
